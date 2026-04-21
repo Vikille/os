@@ -1,0 +1,16 @@
+.vs/
+build/
+cmake-build*/
+out/
+bin/
+obj/
+CMakeCache.txt
+CMakeFiles/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.log
+*.tmp
+*.bak
+.vscode/
